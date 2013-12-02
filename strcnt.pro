@@ -26,7 +26,7 @@
 ;       occurance. 
 ; EXAMPLE:
 ; MODIFICATION HISTORY:
-;       $Id: strcnt.pro,v 1.3 1996/06/14 20:00:27 mcraig Exp $
+;       $Id$
 ;       $Log: strcnt.pro,v $
 ;       Revision 1.3  1996/06/14 20:00:27  mcraig
 ;       Updated Copyright info.

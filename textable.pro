@@ -27,7 +27,7 @@
 ;       table(0,*).
 ; EXAMPLE:
 ; MODIFICATION HISTORY:
-;       $Id: textable.pro,v 1.8 2004/06/15 17:25:54 mcraig Exp $
+;       $Id$
 ;       $Log: textable.pro,v $
 ;       Revision 1.8  2004/06/15 17:25:54  mcraig
 ;       Fixed bug in regular expression, changed array notation to square brackets

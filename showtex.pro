@@ -23,7 +23,7 @@
 ;       Hardware fonts are supported only for device PS (PostScript)
 ; EXAMPLE:
 ; MODIFICATION HISTORY:
-;       $Id: showtex.pro,v 1.4 2004/06/15 17:25:54 mcraig Exp $
+;       $Id$
 ;       $Log: showtex.pro,v $
 ;       Revision 1.4  2004/06/15 17:25:54  mcraig
 ;       Fixed bug in regular expression, changed array notation to square brackets

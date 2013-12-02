@@ -24,7 +24,7 @@
 ; LIBRARY FUNCTIONS CALLED:
 ;        
 ; MODIFICATION HISTORY:
-;       $Id: sub_sup_idl.pro,v 1.1 1996/01/31 18:47:37 mcraig Exp $
+;       $Id$
 ;       $Log: sub_sup_idl.pro,v $
 ;       Revision 1.1  1996/01/31 18:47:37  mcraig
 ;       Initial revision

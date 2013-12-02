@@ -35,7 +35,7 @@
 ;       out = strtrans(inp,from,to,ned)
 ;       Will produce out='Many bad chars in here', and set ned to 4.
 ; MODIFICATION HISTORY:
-;       $Id: strtrans.pro,v 1.7 2004/06/15 17:25:54 mcraig Exp $
+;       $Id$
 ;       $Log: strtrans.pro,v $
 ;       Revision 1.7  2004/06/15 17:25:54  mcraig
 ;       Fixed bug in regular expression, changed array notation to square brackets

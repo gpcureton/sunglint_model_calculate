@@ -33,7 +33,7 @@
 ;        matchdelim('{one{two}}three') returns 9, the character just
 ;        before 'three'.  
 ; MODIFICATION HISTORY:
-;       $Id: matchdelim.pro,v 1.3 1996/06/14 20:00:27 mcraig Exp $
+;       $Id$
 ;       $Log: matchdelim.pro,v $
 ;       Revision 1.3  1996/06/14 20:00:27  mcraig
 ;       Updated Copyright info.

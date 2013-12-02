@@ -36,7 +36,7 @@
 ;       To D. Linder who wrote GETTOK, part of the goddard library,
 ;       upon which this is based.
 ; MODIFICATION HISTORY:
-;       $Id: str_token.pro,v 1.1 2000/06/14 19:09:22 mcraig Exp $
+;       $Id$
 ;       $Log: str_token.pro,v $
 ;       Revision 1.1  2000/06/14 19:09:22  mcraig
 ;       Changed name of strtok str_token to avoid conflict in IDL 5.3.

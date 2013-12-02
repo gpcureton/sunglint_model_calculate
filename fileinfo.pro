@@ -61,7 +61,7 @@ FUNCTION FILEINFO, FILENAME
    ; MODIFICATION HISTORY:
    ; Liam.Gumley@ssec.wisc.edu
    ; http://cimss.ssec.wisc.edu/~gumley
-   ; $Id: fileinfo.pro,v 1.1 2003/06/30 20:27:21 gumley Exp $
+   ; $Id$
    ;
    ; Copyright (C) 1999, 2000 Liam E. Gumley
    ;
@@ -80,7 +80,7 @@ FUNCTION FILEINFO, FILENAME
    ; Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
    ;-
 
-   rcs_id = '$Id: fileinfo.pro,v 1.1 2003/06/30 20:27:21 gumley Exp $'
+   rcs_id = '$Id$'
 
    ;- Check arguments
    if (n_params() eq 0) then message, 'Usage: RESULT = FILEINFO(FILENAME)'

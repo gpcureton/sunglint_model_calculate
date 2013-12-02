@@ -38,7 +38,7 @@
 ;       exponent of 2, then a plus sign, then an N with the subscript
 ;       ed.
 ; MODIFICATION HISTORY:
-;       $Id: textoidl.pro,v 1.7 2004/06/15 17:25:54 mcraig Exp $
+;       $Id$
 ;       $Log: textoidl.pro,v $
 ;       Revision 1.7  2004/06/15 17:25:54  mcraig
 ;       Fixed bug in regular expression, changed array notation to square brackets

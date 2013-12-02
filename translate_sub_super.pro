@@ -44,7 +44,7 @@
 ;       file. 
 ; EXAMPLE:
 ; MODIFICATION HISTORY:
-;       $Id: translate_sub_super.pro,v 1.5 2000/06/14 19:09:22 mcraig Exp $
+;       $Id$
 ;       $Log: translate_sub_super.pro,v $
 ;       Revision 1.5  2000/06/14 19:09:22  mcraig
 ;       Changed name of strtok str_token to avoid conflict in IDL 5.3.
@@ -136,7 +136,7 @@ END
 ;       str_token      -- Text/string (mcraig)
 ;       sub_sup_idl -- contained in this file
 ; MODIFICATION HISTORY:
-;       $Id: translate_sub_super.pro,v 1.5 2000/06/14 19:09:22 mcraig Exp $
+;       $Id$
 ;       $Log: translate_sub_super.pro,v $
 ;       Revision 1.5  2000/06/14 19:09:22  mcraig
 ;       Changed name of strtok str_token to avoid conflict in IDL 5.3.

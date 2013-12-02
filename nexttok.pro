@@ -26,7 +26,7 @@
 ;       nexttok( 'x^2 + N_j^3', '^_', position=pos ) returns '^' and sets
 ;       pos to 1.
 ; MODIFICATION HISTORY:
-;       $Id: nexttok.pro,v 1.4 2004/06/15 17:25:54 mcraig Exp $
+;       $Id$
 ;       $Log: nexttok.pro,v $
 ;       Revision 1.4  2004/06/15 17:25:54  mcraig
 ;       Fixed bug in regular expression, changed array notation to square brackets
